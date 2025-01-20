@@ -4,7 +4,6 @@
                
                 background-size: cover;
                 position: relative;
-                background-color:  #fff6ea;
                 background-image: url(./pf\(bg\).jpg);
                 transition: opacity 1s ease; opacity: 1;
                 /* Makes it stay fixed during scroll */
